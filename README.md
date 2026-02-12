@@ -33,13 +33,16 @@ All data is stored in text files, and passenger records are managed dynamically 
 
 ## 🚀 Features
 
-- User Authentication
-- Train Availability Check
-- Ticket Reservation with Seat Allocation
-- Ticket Cancellation
-- Booking History Display
-- Persistent File Storage
-- Automated Build Verification
+- 🔐 User Authentication
+- 🚆 Train Availability Check
+- 🎟 Ticket Reservation with Seat Allocation
+- ❌ Ticket Cancellation
+- 📋 Booking History Display
+- 🕒 Reservation allowed only within 3 days from current date
+- 📑 Automatic Waiting List when seats are full
+- 💾 Persistent File Storage
+- ⚙ Automated Build Verification
+
 
 ---
 
