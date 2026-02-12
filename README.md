@@ -1,3 +1,1 @@
-![Build](https://github.com/nallavelliharshavardhan/myirctc/actions/workflows/build.yml/badge.svg)
-
-
+![Build](https://github.com/nallavelliharshavardhan/myirctc/actions/workflows/main.yml/badge.svg)
