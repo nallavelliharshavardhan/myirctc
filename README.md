@@ -105,7 +105,7 @@ make
 
 ```
 ---
-## 📸 Screenshots
+## 🖥 Application Preview
 
 ### 🔐 Login Menu
 ![Login Menu](screenshots/login_menue.png)
