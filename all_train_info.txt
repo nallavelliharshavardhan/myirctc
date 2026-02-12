@@ -1,0 +1,9 @@
+1 RajdhaniExpress Delhi Mumbai 50 50
+2 IntercityExpress Hyderabad Bangalore 50 5
+3 VandeBharathExpress Hyderabad Vijayawada 50 50
+4 TelanganaExpress Hyderabad Delhi 80 80
+5 VaranasiExpress Hyderabad Varanasi 80 80
+6 PrayagrajExpress Hyderabad Prayagraj 75 75
+7 ShatabdiExpress Chennai Bangalore 60 60
+8 KanyakumariExpress Chennai Kanyakumari 75 75
+9 TirupatiExpress Bangalore Tirupati 50 50
