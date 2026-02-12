@@ -8,12 +8,5 @@ void menue2(){
 	printf(" B/b - Booking Details\n");
 	printf(" Q/q - Quit Application\n");
 	printf("--------------------------------------------------------------\n");
-	//printf("Select option: ");
-/*
-	printf("==============================TRAIN MENUE===================================\n");
-	
-        printf("R/r:To reserve ticket\nC/c:To cancel ticket\nB/b:Booking details\nQ/q:Quit from app\n");
-	printf("=============================================================================\n");	
-*/
 }
 
